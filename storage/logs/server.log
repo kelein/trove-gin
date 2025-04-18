@@ -1,0 +1,476 @@
+2025-04-18 18:02:20.687240000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:41	server start	{"host": "http://127.0.0.1:8000"}
+2025-04-18 18:02:20.688294000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:42	docs addr	{"addr": "http://127.0.0.1:8000/swagger/index.html"}
+2025-04-18 18:02:20.688970000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:02:25.689687000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:02:30.690884000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:02:35.692753000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:02:40.693631000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:02:45.694564000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:02:50.700094000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:02:55.702319000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:03:00.705243000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:03:05.707171000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:03:10.708825000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:03:15.709703000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:03:20.712156000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:03:25.713414000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:03:30.714915000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:03:35.716287000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:03:40.718438000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:03:45.720040000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:03:50.722502000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:03:55.723229000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:04:00.725393000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:04:05.726559000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:04:10.728344000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:04:15.729734000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:04:20.731667000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:04:25.734129000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:04:30.736805000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:04:35.738145000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:04:40.741504000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:04:45.744398000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:04:48.761084000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:04:48.761452000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:04:51.956426000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:41	server start	{"host": "http://127.0.0.1:8000"}
+2025-04-18 18:04:51.956819000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:42	docs addr	{"addr": "http://127.0.0.1:8000/swagger/index.html"}
+2025-04-18 18:04:51.957359000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:04:56.958693000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:05:01.995539000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:05:06.996865000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:05:12.000512000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:05:17.003033000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:05:22.005379000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:05:27.007052000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:05:32.008609000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:05:37.010470000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:05:42.016939000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:05:47.017905000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:05:52.020238000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:05:57.021679000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:06:02.024455000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:06:07.028377000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:06:12.032014000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:06:17.033392000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:06:22.034142000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:06:26.942166000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:06:26.942900000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:06:30.625581000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:41	server start	{"host": "http://127.0.0.1:8000"}
+2025-04-18 18:06:30.625892000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:42	docs addr	{"addr": "http://127.0.0.1:8000/swagger/index.html"}
+2025-04-18 18:06:30.626246000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:06:35.626864000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:06:40.628523000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:06:41.064441000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:06:41.064821000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:06:42.001229000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:41	server start	{"host": "http://127.0.0.1:8000"}
+2025-04-18 18:06:42.001570000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:42	docs addr	{"addr": "http://127.0.0.1:8000/swagger/index.html"}
+2025-04-18 18:06:42.001860000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:06:47.003225000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:06:49.931675000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:06:49.932231000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:06:51.433922000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:41	server start	{"host": "http://127.0.0.1:8000"}
+2025-04-18 18:06:51.434254000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:42	docs addr	{"addr": "http://127.0.0.1:8000/swagger/index.html"}
+2025-04-18 18:06:51.434528000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:06:56.435780000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:07:01.436357000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:07:04.093890000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:07:04.094254000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:07:04.835153000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:41	server start	{"host": "http://127.0.0.1:8000"}
+2025-04-18 18:07:04.835530000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:42	docs addr	{"addr": "http://127.0.0.1:8000/swagger/index.html"}
+2025-04-18 18:07:04.835824000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:07:09.837002000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:07:11.588235000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:07:11.589678000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:07:12.910536000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:41	server start	{"host": "http://127.0.0.1:8000"}
+2025-04-18 18:07:12.911281000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:42	docs addr	{"addr": "http://127.0.0.1:8000/swagger/index.html"}
+2025-04-18 18:07:12.912240000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:07:17.912851000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:07:22.915180000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:07:27.916038000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:07:32.917651000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:07:37.918678000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:07:40.381510000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:07:40.382381000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:07:41.865659000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:41	server start	{"host": "http://127.0.0.1:8000"}
+2025-04-18 18:07:41.866205000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:42	docs addr	{"addr": "http://127.0.0.1:8000/swagger/index.html"}
+2025-04-18 18:07:41.867400000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:07:44.462142000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:07:44.462373000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:07:46.644144000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:41	server start	{"host": "http://127.0.0.1:8000"}
+2025-04-18 18:07:46.646853000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:42	docs addr	{"addr": "http://127.0.0.1:8000/swagger/index.html"}
+2025-04-18 18:07:46.647726000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:07:51.649021000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:07:52.707712000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:07:52.708008000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:07:53.441338000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:41	server start	{"host": "http://127.0.0.1:8000"}
+2025-04-18 18:07:53.442452000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:42	docs addr	{"addr": "http://127.0.0.1:8000/swagger/index.html"}
+2025-04-18 18:07:53.443557000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:07:53.451329000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:07:53.451464000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:07:53.477071000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:41	server start	{"host": "http://127.0.0.1:8000"}
+2025-04-18 18:07:53.477757000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:42	docs addr	{"addr": "http://127.0.0.1:8000/swagger/index.html"}
+2025-04-18 18:07:53.478094000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:07:58.478593000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:08:03.479600000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:08:08.481078000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:08:13.482928000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:08:13.483099000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:08:13.483420000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:08:14.399367000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:41	server start	{"host": "http://127.0.0.1:8000"}
+2025-04-18 18:08:14.399774000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:42	docs addr	{"addr": "http://127.0.0.1:8000/swagger/index.html"}
+2025-04-18 18:08:14.400296000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:08:19.401670000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:08:24.403245000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:08:27.907811000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:08:27.908213000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:08:28.957416000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:41	server start	{"host": "http://127.0.0.1:8000"}
+2025-04-18 18:08:28.957778000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:42	docs addr	{"addr": "http://127.0.0.1:8000/swagger/index.html"}
+2025-04-18 18:08:28.959513000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:08:33.960464000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:08:38.962114000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:08:43.963790000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:08:48.965194000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:08:53.966535000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:08:58.967972000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:09:03.969060000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:09:08.970274000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:09:13.972591000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:09:15.033973000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:09:15.034425000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:09:16.193189000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:41	server start	{"host": "http://127.0.0.1:8000"}
+2025-04-18 18:09:16.193586000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:42	docs addr	{"addr": "http://127.0.0.1:8000/swagger/index.html"}
+2025-04-18 18:09:16.194103000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:09:21.194552000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:09:26.196111000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:09:31.196644000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:09:35.874629000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:09:35.875343000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:09:37.242815000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:43	server start	{"host": "http://127.0.0.1:8000"}
+2025-04-18 18:09:37.243488000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:44	docs addr	{"addr": "http://127.0.0.1:8000/swagger/index.html"}
+2025-04-18 18:09:37.244022000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:09:42.245475000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:09:46.820660000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:09:46.821180000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:09:48.453915000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:44	server start	{"host": "http://127.0.0.1:8000"}
+2025-04-18 18:09:48.454250000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:45	docs addr	{"addr": "http://127.0.0.1:8000/swagger/index.html"}
+2025-04-18 18:09:48.454552000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:09:53.455696000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:09:58.456595000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:10:03.458083000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:10:08.459299000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:10:11.972851000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:10:11.973214000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:10:13.947169000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:46	server start	{"host": "http://127.0.0.1:8000"}
+2025-04-18 18:10:13.947519000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:47	docs addr	{"addr": "http://127.0.0.1:8000/swagger/index.html"}
+2025-04-18 18:10:13.947928000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:10:18.949223000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:10:23.950932000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:10:28.952963000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:10:33.954958000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:10:38.955810000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:10:40.733586000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:10:40.733912000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:10:42.179786000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:46	server start	{"host": "http://127.0.0.1:8000"}
+2025-04-18 18:10:42.180281000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:47	docs addr	{"addr": "http://127.0.0.1:8000/swagger/index.html"}
+2025-04-18 18:10:42.181383000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:10:47.182593000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:10:50.494482000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:10:50.495516000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:10:53.637953000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:46	server start	{"host": "http://127.0.0.1:8000"}
+2025-04-18 18:10:53.638595000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:47	docs addr	{"addr": "http://127.0.0.1:8000/swagger/index.html"}
+2025-04-18 18:10:53.639276000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:10:58.640840000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:11:02.750430000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:11:02.750971000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:11:05.083635000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:47	server start	{"host": "http://127.0.0.1:8000"}
+2025-04-18 18:11:05.084169000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:48	docs addr	{"addr": "http://127.0.0.1:8000/swagger/index.html"}
+2025-04-18 18:11:05.084543000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:11:10.090320000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:11:15.097530000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:11:19.679953000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:11:19.680652000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:11:20.642380000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:47	server start	{"host": "http://127.0.0.1:8000"}
+2025-04-18 18:11:20.642863000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:48	docs addr	{"addr": "http://127.0.0.1:8000/swagger/index.html"}
+2025-04-18 18:11:20.643384000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:11:25.652237000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:11:26.732076000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:11:26.732523000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:11:28.299181000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:47	server start	{"host": "http://127.0.0.1:8000"}
+2025-04-18 18:11:28.299791000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:48	docs addr	{"addr": "http://127.0.0.1:8000/swagger/index.html"}
+2025-04-18 18:11:28.300209000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:11:33.302218000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:11:38.304040000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:11:40.594617000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:11:40.594962000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:11:41.591646000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:47	server start	{"host": "http://127.0.0.1:8000"}
+2025-04-18 18:11:41.592134000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:48	docs addr	{"addr": "http://127.0.0.1:8000/swagger/index.html"}
+2025-04-18 18:11:41.593065000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:11:46.594111000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:11:51.597274000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:11:56.598627000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:12:01.601801000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:12:05.618340000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:12:05.619438000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:12:07.885153000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:47	server start	{"host": "http://127.0.0.1:8000"}
+2025-04-18 18:12:07.885650000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:48	docs addr	{"addr": "http://127.0.0.1:8000/swagger/index.html"}
+2025-04-18 18:12:07.886460000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:12:12.887889000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:12:17.890358000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:12:22.891554000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:12:27.892853000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:12:32.895289000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:12:37.896643000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:12:42.899111000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:12:47.900385000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:12:52.901225000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:12:57.901891000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:13:02.903332000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:13:07.904668000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:13:12.906860000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:13:17.907280000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:13:22.909741000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:13:27.911216000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:13:32.912194000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:13:37.913441000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:13:42.915200000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:13:47.916611000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:13:52.918218000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:13:57.918806000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:14:02.920616000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:14:07.922117000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:14:12.926300000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:14:17.927578000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:14:22.928837000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:14:27.929757000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:14:32.930916000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:14:37.932023000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:14:42.933318000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:14:47.934706000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:14:52.937956000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:14:57.951346000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:15:02.952841000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:15:07.954992000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:15:12.956278000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:15:17.956863000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:15:22.958274000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:15:27.963159000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:15:32.964340000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:15:37.965965000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:15:42.599028000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:15:42.600713000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:15:46.702211000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:47	server start	{"host": "http://127.0.0.1:8000"}
+2025-04-18 18:15:46.702682000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:48	docs addr	{"addr": "http://127.0.0.1:8000/swagger/index.html"}
+2025-04-18 18:15:46.703307000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:15:51.704623000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:15:56.705862000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:16:01.708144000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:16:06.708926000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:16:11.034242000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:16:11.036699000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:16:13.711577000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:47	server start	{"host": "http://127.0.0.1:8000"}
+2025-04-18 18:16:13.712017000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:48	docs addr	{"addr": "http://127.0.0.1:8000/swagger/index.html"}
+2025-04-18 18:16:13.712669000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:16:18.713100000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:16:23.714538000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:16:28.716191000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:16:33.738843000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:16:34.526551000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:16:34.526921000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:16:35.880677000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:47	server start	{"host": "http://127.0.0.1:8000"}
+2025-04-18 18:16:35.881234000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:48	docs addr	{"addr": "http://127.0.0.1:8000/swagger/index.html"}
+2025-04-18 18:16:35.882337000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:16:38.562271000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:16:38.562806000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:16:41.036583000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:47	server start	{"host": "http://127.0.0.1:8000"}
+2025-04-18 18:16:41.037620000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:48	docs addr	{"addr": "http://127.0.0.1:8000/swagger/index.html"}
+2025-04-18 18:16:41.038297000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:16:46.039228000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:16:51.042549000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:16:56.046020000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:17:01.046317000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:17:06.048092000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:17:11.048778000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:17:16.049949000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:17:21.051406000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:17:26.054036000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:17:31.057332000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:17:36.059140000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:17:41.060367000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:17:46.062442000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:17:51.063221000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:17:56.065487000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:18:01.066976000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:18:06.068264000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:18:11.069596000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:18:16.072031000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:18:21.073736000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:18:26.075797000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:18:31.078014000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:18:36.080623000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:18:41.082307000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:18:46.087979000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:18:51.090017000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:18:56.091717000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:19:01.176032000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:19:06.255226000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:19:11.255856000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:19:16.120876000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:19:16.121439000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:19:19.372230000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:47	server start	{"host": "http://127.0.0.1:8000"}
+2025-04-18 18:19:19.372681000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:48	docs addr	{"addr": "http://127.0.0.1:8000/swagger/index.html"}
+2025-04-18 18:19:19.373433000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:19:21.684221000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:19:21.685289000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:19:23.810746000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:47	server start	{"host": "http://127.0.0.1:8000"}
+2025-04-18 18:19:23.811633000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:48	docs addr	{"addr": "http://127.0.0.1:8000/swagger/index.html"}
+2025-04-18 18:19:23.812696000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:19:28.813504000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:19:33.815401000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:19:38.820610000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:19:41.652965000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:19:41.653493000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:19:42.555545000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:47	server start	{"host": "http://127.0.0.1:8000"}
+2025-04-18 18:19:42.555852000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:48	docs addr	{"addr": "http://127.0.0.1:8000/swagger/index.html"}
+2025-04-18 18:19:42.556335000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:19:47.557350000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:19:52.558848000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:19:57.561359000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:20:02.561860000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:20:07.563753000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:20:08.441259000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:20:08.441812000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:20:09.354729000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:47	server start	{"host": "http://127.0.0.1:8000"}
+2025-04-18 18:20:09.355202000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:48	docs addr	{"addr": "http://127.0.0.1:8000/swagger/index.html"}
+2025-04-18 18:20:09.355915000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:20:14.357284000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:20:19.358652000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:20:24.360529000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:20:29.361866000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:20:34.363404000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:20:39.364844000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:20:39.439766000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:20:39.440185000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:20:41.053897000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:47	server start	{"host": "http://127.0.0.1:8000"}
+2025-04-18 18:20:41.054397000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:48	docs addr	{"addr": "http://127.0.0.1:8000/swagger/index.html"}
+2025-04-18 18:20:41.054924000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:20:46.057324000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:20:51.062893000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:20:56.064472000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:21:01.066937000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:21:06.068252000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:21:11.071716000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:21:16.074184000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:21:20.633033000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:21:20.633730000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:21:23.263082000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:47	server start	{"host": "http://127.0.0.1:8000"}
+2025-04-18 18:21:23.265219000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:48	docs addr	{"addr": "http://127.0.0.1:8000/swagger/index.html"}
+2025-04-18 18:21:23.269293000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:21:28.271068000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:21:28.399755000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:21:28.400491000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:21:29.975690000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:47	server start	{"host": "http://127.0.0.1:8000"}
+2025-04-18 18:21:29.976198000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:48	docs addr	{"addr": "http://127.0.0.1:8000/swagger/index.html"}
+2025-04-18 18:21:29.977639000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:21:33.351664000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:21:33.352062000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:21:34.859092000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:47	server start	{"host": "http://127.0.0.1:8000"}
+2025-04-18 18:21:34.859922000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:48	docs addr	{"addr": "http://127.0.0.1:8000/swagger/index.html"}
+2025-04-18 18:21:34.861636000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:21:39.429422000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:21:39.429840000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:21:41.934211000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:47	server start	{"host": "http://127.0.0.1:8000"}
+2025-04-18 18:21:41.935019000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:48	docs addr	{"addr": "http://127.0.0.1:8000/swagger/index.html"}
+2025-04-18 18:21:41.935786000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:21:46.937233000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:21:51.938032000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:21:56.940467000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:22:01.941429000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:22:03.799718000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:22:03.801504000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:22:04.539867000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:47	server start	{"host": "http://127.0.0.1:8000"}
+2025-04-18 18:22:04.540274000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:48	docs addr	{"addr": "http://127.0.0.1:8000/swagger/index.html"}
+2025-04-18 18:22:04.540455000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:22:07.645794000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:22:07.646120000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:22:08.383175000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:47	server start	{"host": "http://127.0.0.1:8000"}
+2025-04-18 18:22:08.383418000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:48	docs addr	{"addr": "http://127.0.0.1:8000/swagger/index.html"}
+2025-04-18 18:22:08.383653000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:22:13.384918000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:22:18.386460000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:22:23.387856000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:22:28.389226000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:22:33.390958000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:22:35.726661000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:22:35.727286000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:22:36.455523000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:47	server start	{"host": "http://127.0.0.1:8000"}
+2025-04-18 18:22:36.455931000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:48	docs addr	{"addr": "http://127.0.0.1:8000/swagger/index.html"}
+2025-04-18 18:22:36.456230000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:22:41.456716000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:22:46.458048000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:22:51.458615000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:22:56.460081000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:23:01.461440000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:23:06.463536000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:23:11.464709000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:23:16.466472000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:23:21.467906000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:23:26.468887000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:23:31.470487000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:23:36.472561000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:23:41.474918000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:23:46.477065000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:23:51.478980000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:23:56.481006000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:24:01.482134000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:24:06.483785000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:24:11.485014000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:24:16.486302000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:24:21.488875000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:24:26.491792000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:24:31.493129000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:24:36.495707000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:24:41.496986000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:24:46.499291000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:24:51.499763000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:24:56.501583000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:25:01.502443000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:25:06.503027000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:25:11.504547000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:25:16.506225000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:25:21.507544000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:25:26.508514000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:25:31.509108000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:25:36.510721000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/job/user.go:31	KafkaConsumer
+2025-04-18 18:25:39.689368000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:25:39.689798000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:25:42.181031000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:47	server start	{"host": "http://127.0.0.1:8000"}
+2025-04-18 18:25:42.181508000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:48	docs addr	{"addr": "http://127.0.0.1:8000/swagger/index.html"}
+2025-04-18 18:26:34.768411000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:26:34.768992000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:26:39.518551000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:47	server start	{"host": "http://127.0.0.1:8000"}
+2025-04-18 18:26:39.519803000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/cmd/server/main.go:48	docs addr	{"addr": "http://127.0.0.1:8000/swagger/index.html"}
+2025-04-18 18:27:26.626270000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:27:26.626813000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:27:42.121617000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:27:42.122935000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:27:46.613564000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:27:46.616236000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:27:52.119323000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:27:52.119887000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:27:55.150560000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/middleware/log.go:31	Request	{"trace": "1bb076e743038640ec6ee35b1f986a9b", "request_method": "GET", "request_headers": {"Accept":["text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"],"Accept-Encoding":["gzip, deflate, br, zstd"],"Accept-Language":["zh-CN,zh;q=0.9,en;q=0.8,zh-TW;q=0.7,la;q=0.6,de;q=0.5"],"Connection":["keep-alive"],"Dnt":["1"],"Sec-Ch-Ua":["\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\""],"Sec-Ch-Ua-Mobile":["?0"],"Sec-Ch-Ua-Platform":["\"macOS\""],"Sec-Fetch-Dest":["document"],"Sec-Fetch-Mode":["navigate"],"Sec-Fetch-Site":["none"],"Sec-Fetch-User":["?1"],"Upgrade-Insecure-Requests":["1"],"User-Agent":["Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"]}, "request_url": "/", "request_params": ""}
+2025-04-18 18:27:55.151565000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/server/http.go:47	hello	{"trace": "1bb076e743038640ec6ee35b1f986a9b", "request_method": "GET", "request_headers": {"Accept":["text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"],"Accept-Encoding":["gzip, deflate, br, zstd"],"Accept-Language":["zh-CN,zh;q=0.9,en;q=0.8,zh-TW;q=0.7,la;q=0.6,de;q=0.5"],"Connection":["keep-alive"],"Dnt":["1"],"Sec-Ch-Ua":["\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\""],"Sec-Ch-Ua-Mobile":["?0"],"Sec-Ch-Ua-Platform":["\"macOS\""],"Sec-Fetch-Dest":["document"],"Sec-Fetch-Mode":["navigate"],"Sec-Fetch-Site":["none"],"Sec-Fetch-User":["?1"],"Upgrade-Insecure-Requests":["1"],"User-Agent":["Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"]}, "request_url": "/", "request_params": ""}
+2025-04-18 18:27:55.152822000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/middleware/log.go:42	Response	{"trace": "1bb076e743038640ec6ee35b1f986a9b", "request_method": "GET", "request_headers": {"Accept":["text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"],"Accept-Encoding":["gzip, deflate, br, zstd"],"Accept-Language":["zh-CN,zh;q=0.9,en;q=0.8,zh-TW;q=0.7,la;q=0.6,de;q=0.5"],"Connection":["keep-alive"],"Dnt":["1"],"Sec-Ch-Ua":["\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\""],"Sec-Ch-Ua-Mobile":["?0"],"Sec-Ch-Ua-Platform":["\"macOS\""],"Sec-Fetch-Dest":["document"],"Sec-Fetch-Mode":["navigate"],"Sec-Fetch-Site":["none"],"Sec-Fetch-User":["?1"],"Upgrade-Insecure-Requests":["1"],"User-Agent":["Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"]}, "request_url": "/", "request_params": "", "response_body": "{\"code\":0,\"message\":\"ok\",\"data\":{\":)\":\"Thank you for using nunu!\"}}", "time": "2.916208ms"}
+2025-04-18 18:27:55.921585000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/middleware/log.go:31	Request	{"trace": "172fd679f0a00a09f5c4656d36e3d4c8", "request_method": "GET", "request_headers": {"Accept":["image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"],"Accept-Encoding":["gzip, deflate, br, zstd"],"Accept-Language":["zh-CN,zh;q=0.9,en;q=0.8,zh-TW;q=0.7,la;q=0.6,de;q=0.5"],"Connection":["keep-alive"],"Dnt":["1"],"Referer":["http://127.0.0.1:8000/"],"Sec-Ch-Ua":["\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\""],"Sec-Ch-Ua-Mobile":["?0"],"Sec-Ch-Ua-Platform":["\"macOS\""],"Sec-Fetch-Dest":["image"],"Sec-Fetch-Mode":["no-cors"],"Sec-Fetch-Site":["same-origin"],"User-Agent":["Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"]}, "request_url": "/favicon.ico", "request_params": ""}
+2025-04-18 18:27:55.921741000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/internal/middleware/log.go:42	Response	{"trace": "172fd679f0a00a09f5c4656d36e3d4c8", "request_method": "GET", "request_headers": {"Accept":["image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"],"Accept-Encoding":["gzip, deflate, br, zstd"],"Accept-Language":["zh-CN,zh;q=0.9,en;q=0.8,zh-TW;q=0.7,la;q=0.6,de;q=0.5"],"Connection":["keep-alive"],"Dnt":["1"],"Referer":["http://127.0.0.1:8000/"],"Sec-Ch-Ua":["\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\""],"Sec-Ch-Ua-Mobile":["?0"],"Sec-Ch-Ua-Platform":["\"macOS\""],"Sec-Fetch-Dest":["image"],"Sec-Fetch-Mode":["no-cors"],"Sec-Fetch-Site":["same-origin"],"User-Agent":["Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"]}, "request_url": "/favicon.ico", "request_params": "", "response_body": "", "time": "313.5µs"}
+2025-04-18 18:29:15.563657000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:29:15.564481000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:29:23.799333000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:29:23.799854000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:29:36.272688000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:29:36.273434000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:29:38.396763000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:29:38.397416000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:29:41.405835000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:29:41.406333000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting
+2025-04-18 18:30:31.231117000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:56	Shutting down server...
+2025-04-18 18:30:31.232050000	[34minfo[0m	/Users/kallen/PROJS/kallen.com/trove-gin/pkg/server/http/http.go:66	Server exiting

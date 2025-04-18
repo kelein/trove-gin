@@ -1,4 +1,4 @@
-package service
+package job
 
 import (
 	"github.com/kelein/trove-gin/internal/repository"
@@ -7,23 +7,21 @@ import (
 	"github.com/kelein/trove-gin/pkg/sid"
 )
 
-type Service struct {
+type Job struct {
 	logger *log.Logger
 	sid    *sid.Sid
 	jwt    *jwt.JWT
 	tm     repository.Transaction
 }
 
-func NewService(
+func NewJob(
 	tm repository.Transaction,
 	logger *log.Logger,
 	sid *sid.Sid,
-	jwt *jwt.JWT,
-) *Service {
-	return &Service{
+) *Job {
+	return &Job{
 		logger: logger,
 		sid:    sid,
-		jwt:    jwt,
 		tm:     tm,
 	}
 }

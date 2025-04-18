@@ -1,4 +1,4 @@
-package service
+package task
 
 import (
 	"github.com/kelein/trove-gin/internal/repository"
@@ -7,23 +7,21 @@ import (
 	"github.com/kelein/trove-gin/pkg/sid"
 )
 
-type Service struct {
+type Task struct {
 	logger *log.Logger
 	sid    *sid.Sid
 	jwt    *jwt.JWT
 	tm     repository.Transaction
 }
 
-func NewService(
+func NewTask(
 	tm repository.Transaction,
 	logger *log.Logger,
 	sid *sid.Sid,
-	jwt *jwt.JWT,
-) *Service {
-	return &Service{
+) *Task {
+	return &Task{
 		logger: logger,
 		sid:    sid,
-		jwt:    jwt,
 		tm:     tm,
 	}
 }
