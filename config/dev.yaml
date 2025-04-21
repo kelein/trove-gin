@@ -31,10 +31,10 @@ data:
     write_timeout: 0.2s
 
 log:
-  log_level: debug
   encoding: console
-  log_file_name: "./logs/server.log"
-  max_backups: 30
+  log_level: debug
+  log_file: "logs/trove.log"
   max_age: 30
   max_size: 1024
+  max_backups: 30
   compress: true

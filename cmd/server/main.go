@@ -48,7 +48,7 @@ func main() {
 	logger := log.NewLog(conf)
 
 	// Setup slog default logger
-	log.SetupSlog()
+	log.SetupSlog(conf)
 
 	app, cleanup, err := wire.NewWire(conf, logger)
 	defer cleanup()

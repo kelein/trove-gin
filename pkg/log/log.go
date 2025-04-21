@@ -20,7 +20,7 @@ type Logger struct {
 
 func NewLog(conf *viper.Viper) *Logger {
 	// log address "out.log" User-defined
-	lp := conf.GetString("log.log_file_name")
+	lp := conf.GetString("log.log_file")
 	lv := conf.GetString("log.log_level")
 	var level zapcore.Level
 	//debug<info<warn<error<fatal<panic
@@ -36,6 +36,7 @@ func NewLog(conf *viper.Viper) *Logger {
 	default:
 		level = zap.InfoLevel
 	}
+
 	hook := lumberjack.Logger{
 		Filename:   lp,                             // Log file path
 		MaxSize:    conf.GetInt("log.max_size"),    // Maximum size unit for each log file: M

@@ -44,8 +44,8 @@ func TestMain(m *testing.M) {
 	conf := config.NewConfig(*envConf)
 
 	// modify log directory
-	logPath := filepath.Join("../../../", conf.GetString("log.log_file_name"))
-	conf.Set("log.log_file_name", logPath)
+	logPath := filepath.Join("../../../", conf.GetString("log.log_file"))
+	conf.Set("log.log_file", logPath)
 
 	logger = log.NewLog(conf)
 	hdl = handler.NewHandler(logger)
