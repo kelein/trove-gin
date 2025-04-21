@@ -13,7 +13,7 @@ require (
 	github.com/golang/mock v1.6.0
 	github.com/google/wire v0.5.0
 	github.com/redis/go-redis/v9 v9.0.5
-	github.com/sony/sonyflake v1.1.0
+	github.com/sony/sonyflake v1.2.0
 	github.com/spf13/viper v1.16.0
 	github.com/stretchr/testify v1.8.4
 	github.com/swaggo/files v1.0.1
