@@ -1,11 +1,13 @@
 package handler
 
 import (
+	"net/http"
+
 	"github.com/gin-gonic/gin"
+	"go.uber.org/zap"
+
 	"github.com/kelein/trove-gin/api/v1"
 	"github.com/kelein/trove-gin/internal/service"
-	"go.uber.org/zap"
-	"net/http"
 )
 
 type UserHandler struct {

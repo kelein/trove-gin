@@ -2,16 +2,17 @@ package repository
 
 import (
 	"context"
-	"github.com/kelein/trove-gin/pkg/log"
 	"testing"
 	"time"
 
 	"github.com/DATA-DOG/go-sqlmock"
-	"github.com/kelein/trove-gin/internal/model"
-	"github.com/kelein/trove-gin/internal/repository"
 	"github.com/stretchr/testify/assert"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
+
+	"github.com/kelein/trove-gin/internal/model"
+	"github.com/kelein/trove-gin/internal/repository"
+	"github.com/kelein/trove-gin/pkg/log"
 )
 
 var logger *log.Logger

@@ -5,20 +5,21 @@ import (
 	"errors"
 	"flag"
 	"fmt"
-	v1 "github.com/kelein/trove-gin/api/v1"
-	"github.com/kelein/trove-gin/pkg/jwt"
-	"github.com/kelein/trove-gin/test/mocks/repository"
 	"os"
 	"testing"
 
-	"github.com/kelein/trove-gin/internal/model"
-	"github.com/kelein/trove-gin/internal/service"
-	"github.com/kelein/trove-gin/pkg/config"
-	"github.com/kelein/trove-gin/pkg/log"
-	"github.com/kelein/trove-gin/pkg/sid"
 	"github.com/golang/mock/gomock"
 	"github.com/stretchr/testify/assert"
 	"golang.org/x/crypto/bcrypt"
+
+	v1 "github.com/kelein/trove-gin/api/v1"
+	"github.com/kelein/trove-gin/internal/model"
+	"github.com/kelein/trove-gin/internal/service"
+	"github.com/kelein/trove-gin/pkg/config"
+	"github.com/kelein/trove-gin/pkg/jwt"
+	"github.com/kelein/trove-gin/pkg/log"
+	"github.com/kelein/trove-gin/pkg/sid"
+	"github.com/kelein/trove-gin/test/mocks/repository"
 )
 
 var (

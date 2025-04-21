@@ -2,8 +2,9 @@ package v1
 
 import (
 	"errors"
-	"github.com/gin-gonic/gin"
 	"net/http"
+
+	"github.com/gin-gonic/gin"
 )
 
 type Response struct {
@@ -46,6 +47,7 @@ func newError(code int, msg string) error {
 	errorCodeMap[err] = code
 	return err
 }
+
 func (e Error) Error() string {
 	return e.Message
 }

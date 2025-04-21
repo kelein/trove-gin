@@ -3,9 +3,11 @@ package repository
 import (
 	"context"
 	"errors"
+
+	"gorm.io/gorm"
+
 	v1 "github.com/kelein/trove-gin/api/v1"
 	"github.com/kelein/trove-gin/internal/model"
-	"gorm.io/gorm"
 )
 
 type UserRepository interface {

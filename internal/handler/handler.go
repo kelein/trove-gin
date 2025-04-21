@@ -2,6 +2,7 @@ package handler
 
 import (
 	"github.com/gin-gonic/gin"
+
 	"github.com/kelein/trove-gin/pkg/jwt"
 	"github.com/kelein/trove-gin/pkg/log"
 )
@@ -17,6 +18,7 @@ func NewHandler(
 		logger: logger,
 	}
 }
+
 func GetUserIdFromCtx(ctx *gin.Context) string {
 	v, exists := ctx.Get("claims")
 	if !exists {

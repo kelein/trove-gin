@@ -3,10 +3,12 @@ package grpc
 import (
 	"context"
 	"fmt"
-	"github.com/kelein/trove-gin/pkg/log"
-	"google.golang.org/grpc"
 	"net"
 	"time"
+
+	"google.golang.org/grpc"
+
+	"github.com/kelein/trove-gin/pkg/log"
 )
 
 type Server struct {
@@ -28,11 +30,13 @@ func NewServer(logger *log.Logger, opts ...Option) *Server {
 	}
 	return s
 }
+
 func WithServerHost(host string) Option {
 	return func(s *Server) {
 		s.host = host
 	}
 }
+
 func WithServerPort(port int) Option {
 	return func(s *Server) {
 		s.port = port
@@ -50,6 +54,7 @@ func (s *Server) Start(ctx context.Context) error {
 	return nil
 
 }
+
 func (s *Server) Stop(ctx context.Context) error {
 	ctx, cancel := context.WithTimeout(ctx, 5*time.Second)
 	defer cancel()

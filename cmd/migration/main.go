@@ -3,6 +3,7 @@ package main
 import (
 	"context"
 	"flag"
+
 	"github.com/kelein/trove-gin/cmd/migration/wire"
 	"github.com/kelein/trove-gin/pkg/config"
 	"github.com/kelein/trove-gin/pkg/log"

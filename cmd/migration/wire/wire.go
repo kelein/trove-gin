@@ -4,12 +4,13 @@
 package wire
 
 import (
+	"github.com/google/wire"
+	"github.com/spf13/viper"
+
 	"github.com/kelein/trove-gin/internal/repository"
 	"github.com/kelein/trove-gin/internal/server"
 	"github.com/kelein/trove-gin/pkg/app"
 	"github.com/kelein/trove-gin/pkg/log"
-	"github.com/google/wire"
-	"github.com/spf13/viper"
 )
 
 var repositorySet = wire.NewSet(
@@ -18,6 +19,7 @@ var repositorySet = wire.NewSet(
 	repository.NewRepository,
 	repository.NewUserRepository,
 )
+
 var serverSet = wire.NewSet(
 	server.NewMigrateServer,
 )

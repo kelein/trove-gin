@@ -2,11 +2,13 @@ package service
 
 import (
 	"context"
+	"time"
+
+	"golang.org/x/crypto/bcrypt"
+
 	v1 "github.com/kelein/trove-gin/api/v1"
 	"github.com/kelein/trove-gin/internal/model"
 	"github.com/kelein/trove-gin/internal/repository"
-	"golang.org/x/crypto/bcrypt"
-	"time"
 )
 
 type UserService interface {

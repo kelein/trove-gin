@@ -2,13 +2,14 @@ package log
 
 import (
 	"context"
+	"os"
+	"time"
+
 	"github.com/gin-gonic/gin"
 	"github.com/spf13/viper"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 	"gopkg.in/natefinch/lumberjack.v2"
-	"os"
-	"time"
 )
 
 const ctxLoggerKey = "zapLogger"

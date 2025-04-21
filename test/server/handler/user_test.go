@@ -1,14 +1,15 @@
 package handler
 
 import (
-	v1 "github.com/kelein/trove-gin/api/v1"
-	"github.com/kelein/trove-gin/internal/handler"
-	"github.com/kelein/trove-gin/internal/middleware"
-	"github.com/kelein/trove-gin/test/mocks/service"
 	"net/http"
 	"testing"
 
 	"github.com/golang/mock/gomock"
+
+	v1 "github.com/kelein/trove-gin/api/v1"
+	"github.com/kelein/trove-gin/internal/handler"
+	"github.com/kelein/trove-gin/internal/middleware"
+	"github.com/kelein/trove-gin/test/mocks/service"
 )
 
 func TestUserHandler_Register(t *testing.T) {

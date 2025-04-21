@@ -2,11 +2,13 @@ package server
 
 import (
 	"context"
-	"github.com/kelein/trove-gin/internal/model"
-	"github.com/kelein/trove-gin/pkg/log"
+	"os"
+
 	"go.uber.org/zap"
 	"gorm.io/gorm"
-	"os"
+
+	"github.com/kelein/trove-gin/internal/model"
+	"github.com/kelein/trove-gin/pkg/log"
 )
 
 type MigrateServer struct {
@@ -20,6 +22,7 @@ func NewMigrateServer(db *gorm.DB, log *log.Logger) *MigrateServer {
 		log: log,
 	}
 }
+
 func (m *MigrateServer) Start(ctx context.Context) error {
 	if err := m.db.AutoMigrate(
 		&model.User{},
@@ -31,6 +34,7 @@ func (m *MigrateServer) Start(ctx context.Context) error {
 	os.Exit(0)
 	return nil
 }
+
 func (m *MigrateServer) Stop(ctx context.Context) error {
 	m.log.Info("AutoMigrate stop")
 	return nil

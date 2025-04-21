@@ -2,11 +2,12 @@ package app
 
 import (
 	"context"
-	"github.com/kelein/trove-gin/pkg/server"
 	"log"
 	"os"
 	"os/signal"
 	"syscall"
+
+	"github.com/kelein/trove-gin/pkg/server"
 )
 
 type App struct {

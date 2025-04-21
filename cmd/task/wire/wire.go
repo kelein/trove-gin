@@ -4,14 +4,15 @@
 package wire
 
 import (
+	"github.com/google/wire"
+	"github.com/spf13/viper"
+
 	"github.com/kelein/trove-gin/internal/repository"
 	"github.com/kelein/trove-gin/internal/server"
 	"github.com/kelein/trove-gin/internal/task"
 	"github.com/kelein/trove-gin/pkg/app"
 	"github.com/kelein/trove-gin/pkg/log"
 	"github.com/kelein/trove-gin/pkg/sid"
-	"github.com/google/wire"
-	"github.com/spf13/viper"
 )
 
 var repositorySet = wire.NewSet(
@@ -26,6 +27,7 @@ var taskSet = wire.NewSet(
 	task.NewTask,
 	task.NewUserTask,
 )
+
 var serverSet = wire.NewSet(
 	server.NewTaskServer,
 )

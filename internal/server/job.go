@@ -2,6 +2,7 @@ package server
 
 import (
 	"context"
+
 	"github.com/kelein/trove-gin/internal/job"
 	"github.com/kelein/trove-gin/pkg/log"
 )
@@ -28,6 +29,7 @@ func (j *JobServer) Start(ctx context.Context) error {
 	err := j.userJob.KafkaConsumer(ctx)
 	return err
 }
+
 func (j *JobServer) Stop(ctx context.Context) error {
 	return nil
 }

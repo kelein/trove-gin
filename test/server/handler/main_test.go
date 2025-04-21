@@ -4,27 +4,33 @@ import (
 	"bytes"
 	"flag"
 	"fmt"
-	"github.com/gavv/httpexpect/v2"
-	"github.com/gin-gonic/gin"
-	"github.com/kelein/trove-gin/internal/handler"
-	"github.com/kelein/trove-gin/internal/middleware"
-	"github.com/kelein/trove-gin/pkg/config"
-	jwt2 "github.com/kelein/trove-gin/pkg/jwt"
-	"github.com/kelein/trove-gin/pkg/log"
 	"net/http"
 	"net/http/httptest"
 	"os"
 	"path/filepath"
 	"testing"
 	"time"
+
+	"github.com/gavv/httpexpect/v2"
+	"github.com/gin-gonic/gin"
+
+	"github.com/kelein/trove-gin/internal/handler"
+	"github.com/kelein/trove-gin/internal/middleware"
+	"github.com/kelein/trove-gin/pkg/config"
+	jwt2 "github.com/kelein/trove-gin/pkg/jwt"
+	"github.com/kelein/trove-gin/pkg/log"
 )
 
 var (
 	userId = "xxx"
 )
+
 var logger *log.Logger
+
 var hdl *handler.Handler
+
 var jwt *jwt2.JWT
+
 var router *gin.Engine
 
 func TestMain(m *testing.M) {

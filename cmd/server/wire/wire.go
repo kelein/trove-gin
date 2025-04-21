@@ -4,6 +4,9 @@
 package wire
 
 import (
+	"github.com/google/wire"
+	"github.com/spf13/viper"
+
 	"github.com/kelein/trove-gin/internal/handler"
 	"github.com/kelein/trove-gin/internal/job"
 	"github.com/kelein/trove-gin/internal/repository"
@@ -14,8 +17,6 @@ import (
 	"github.com/kelein/trove-gin/pkg/log"
 	"github.com/kelein/trove-gin/pkg/server/http"
 	"github.com/kelein/trove-gin/pkg/sid"
-	"github.com/google/wire"
-	"github.com/spf13/viper"
 )
 
 var repositorySet = wire.NewSet(
@@ -40,6 +41,7 @@ var jobSet = wire.NewSet(
 	job.NewJob,
 	job.NewUserJob,
 )
+
 var serverSet = wire.NewSet(
 	server.NewHTTPServer,
 	server.NewJobServer,

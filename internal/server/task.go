@@ -2,11 +2,13 @@ package server
 
 import (
 	"context"
+	"time"
+
 	"github.com/go-co-op/gocron"
+	"go.uber.org/zap"
+
 	"github.com/kelein/trove-gin/internal/task"
 	"github.com/kelein/trove-gin/pkg/log"
-	"go.uber.org/zap"
-	"time"
 )
 
 type TaskServer struct {
@@ -24,6 +26,7 @@ func NewTaskServer(
 		userTask: userTask,
 	}
 }
+
 func (t *TaskServer) Start(ctx context.Context) error {
 	gocron.SetPanicHandler(func(jobName string, recoverData interface{}) {
 		t.log.Error("TaskServer Panic", zap.String("job", jobName), zap.Any("recover", recoverData))
@@ -48,6 +51,7 @@ func (t *TaskServer) Start(ctx context.Context) error {
 	t.scheduler.StartBlocking()
 	return nil
 }
+
 func (t *TaskServer) Stop(ctx context.Context) error {
 	t.scheduler.Stop()
 	t.log.Info("TaskServer stop...")

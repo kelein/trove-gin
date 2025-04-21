@@ -3,15 +3,17 @@ package repository
 import (
 	"context"
 	"fmt"
+	"time"
+
 	"github.com/glebarez/sqlite"
-	"github.com/kelein/trove-gin/pkg/log"
-	"github.com/kelein/trove-gin/pkg/zapgorm2"
 	"github.com/redis/go-redis/v9"
 	"github.com/spf13/viper"
 	"gorm.io/driver/mysql"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
-	"time"
+
+	"github.com/kelein/trove-gin/pkg/log"
+	"github.com/kelein/trove-gin/pkg/zapgorm2"
 )
 
 const ctxTxKey = "TxKey"
@@ -102,6 +104,7 @@ func NewDB(conf *viper.Viper, l *log.Logger) *gorm.DB {
 	sqlDB.SetConnMaxLifetime(time.Hour)
 	return db
 }
+
 func NewRedis(conf *viper.Viper) *redis.Client {
 	rdb := redis.NewClient(&redis.Options{
 		Addr:     conf.GetString("data.redis.addr"),
