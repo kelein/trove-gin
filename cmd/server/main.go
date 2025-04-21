@@ -8,29 +8,39 @@ import (
 	"os"
 
 	"github.com/kelein/trove-gin/cmd/server/wire"
+	"github.com/kelein/trove-gin/docs"
 	"github.com/kelein/trove-gin/pkg/config"
 	"github.com/kelein/trove-gin/pkg/log"
 )
 
 var (
-	cfg = flag.String("conf", "config/local.yml", "config file path, eg: -conf ./config/local.yml")
+	cfg = flag.String("conf", "config/dev.yaml", "config file path")
 )
 
-// @title           Nunu Example API
-// @version         1.0.0
-// @description     This is a sample server celler server.
-// @termsOfService  http://swagger.io/terms/
-// @contact.name   API Support
-// @contact.url    http://www.swagger.io/support
-// @contact.email  support@swagger.io
-// @license.name  Apache 2.0
-// @license.url   http://www.apache.org/licenses/LICENSE-2.0.html
-// @host      localhost:8000
+func init() { initSwaggerInfo() }
+
+// initSwaggerInfo setup swagger info
+//
+// * Basic Info
+// @license.name Apache 2.0
+// @contact.name trove-gin
+// @contact.url https://github.com/kelein/trove-gin
+// @license.url http://www.apache.org/licenses/LICENSE-2.0.html
+//
+// * Authentication Info
 // @securityDefinitions.apiKey Bearer
-// @in header
 // @name Authorization
-// @externalDocs.description  OpenAPI
-// @externalDocs.url          https://swagger.io/resources/open-api/
+// @in header
+func initSwaggerInfo() {
+	docs.SwaggerInfo.BasePath = "v1"
+	docs.SwaggerInfo.Version = "1.0.0"
+	docs.SwaggerInfo.Host = "localhost:8000"
+	docs.SwaggerInfo.Schemes = []string{"http", "https"}
+	docs.SwaggerInfo.Title = "Trove Gin API Server"
+	docs.SwaggerInfo.Description = "Trove Gin API Server"
+	docs.SwaggerInfo.InfoInstanceName = "swagger"
+}
+
 func main() {
 	flag.Parse()
 
