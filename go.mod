@@ -15,7 +15,7 @@ require (
 	github.com/redis/go-redis/v9 v9.0.5
 	github.com/sony/sonyflake v1.2.0
 	github.com/spf13/viper v1.16.0
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.10.0
 	github.com/swaggo/files v1.0.1
 	github.com/swaggo/gin-swagger v1.6.0
 	github.com/swaggo/swag v1.16.2
