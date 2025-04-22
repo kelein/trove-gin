@@ -2,19 +2,20 @@ package server
 
 import (
 	gohttp "net/http"
+	"os"
 
 	"github.com/gin-gonic/gin"
 	"github.com/spf13/viper"
 	swaggerfiles "github.com/swaggo/files"
 	ginSwagger "github.com/swaggo/gin-swagger"
 
-	apiV1 "github.com/kelein/trove-gin/api/v1"
 	"github.com/kelein/trove-gin/docs"
 	"github.com/kelein/trove-gin/internal/handler"
 	"github.com/kelein/trove-gin/internal/middleware"
 	"github.com/kelein/trove-gin/pkg/jwt"
 	"github.com/kelein/trove-gin/pkg/log"
 	"github.com/kelein/trove-gin/pkg/server/http"
+	"github.com/kelein/trove-gin/pkg/version"
 )
 
 func NewHTTPServer(
@@ -47,12 +48,10 @@ func NewHTTPServer(
 		middleware.RequestLogMiddleware(logger),
 		//middleware.SignMiddleware(log),
 	)
-	s.GET("/", func(ctx *gin.Context) {
-		logger.WithContext(ctx).Info("hello")
-		apiV1.HandleSuccess(ctx, map[string]any{
-			":)": "Thank you for using nunu!",
-		})
-	})
+
+	s.GET("/", home)
+	s.GET("/ping", home)
+	s.GET("/version", home)
 
 	s.GET("/index", func(ctx *gin.Context) {
 		ctx.Redirect(gohttp.StatusFound, "/swagger/index.html")
@@ -62,22 +61,26 @@ func NewHTTPServer(
 	{
 		// No route group has permission
 		noAuthRouter := v1.Group("/")
-		{
-			noAuthRouter.POST("/register", userHandler.Register)
-			noAuthRouter.POST("/login", userHandler.Login)
-		}
+		noAuthRouter.POST("/login", userHandler.Login)
+		noAuthRouter.POST("/register", userHandler.Register)
+
 		// Non-strict permission routing group
 		noStrictAuthRouter := v1.Group("/").Use(middleware.NoStrictAuth(jwt, logger))
-		{
-			noStrictAuthRouter.GET("/user", userHandler.GetProfile)
-		}
+		noStrictAuthRouter.GET("/user", userHandler.GetProfile)
 
 		// Strict permission routing group
 		strictAuthRouter := v1.Group("/").Use(middleware.StrictAuth(jwt, logger))
-		{
-			strictAuthRouter.PUT("/user", userHandler.UpdateProfile)
-		}
+		strictAuthRouter.PUT("/user", userHandler.UpdateProfile)
 	}
 
 	return s
+}
+
+func home(ctx *gin.Context) {
+	ctx.JSON(gohttp.StatusOK, gin.H{
+		"app":    version.AppName,
+		"pid":    os.Getpid(),
+		"build":  version.Info(),
+		"uptime": version.Uptime,
+	})
 }
