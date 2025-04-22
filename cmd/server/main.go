@@ -11,9 +11,12 @@ import (
 	"github.com/kelein/trove-gin/docs"
 	"github.com/kelein/trove-gin/pkg/config"
 	"github.com/kelein/trove-gin/pkg/log"
+	"github.com/kelein/trove-gin/pkg/version"
 )
 
 var (
+	v   = flag.Bool("v", false, "show the binary version")
+	ver = flag.Bool("version", false, "show the binary version")
 	cfg = flag.String("conf", "config/dev.yaml", "config file path")
 )
 
@@ -33,16 +36,17 @@ func init() { initSwaggerInfo() }
 // @in header
 func initSwaggerInfo() {
 	docs.SwaggerInfo.BasePath = "v1"
-	docs.SwaggerInfo.Version = "1.0.0"
 	docs.SwaggerInfo.Host = "localhost:8000"
-	docs.SwaggerInfo.Schemes = []string{"http", "https"}
 	docs.SwaggerInfo.Title = "Trove Gin API Server"
-	docs.SwaggerInfo.Description = "Trove Gin API Server"
+	docs.SwaggerInfo.Version = version.AppVersion
+	docs.SwaggerInfo.Description = version.String()
 	docs.SwaggerInfo.InfoInstanceName = "swagger"
+	docs.SwaggerInfo.Schemes = []string{"http", "https"}
 }
 
 func main() {
 	flag.Parse()
+	showVersion()
 
 	conf := config.NewConfig(*cfg)
 	logger := log.NewLog(conf)
@@ -63,5 +67,12 @@ func main() {
 	if err = app.Run(context.Background()); err != nil {
 		slog.Error("server run failed", "error", err)
 		os.Exit(1)
+	}
+}
+
+func showVersion() {
+	if *v || *ver {
+		fmt.Println(version.String())
+		os.Exit(0)
 	}
 }
