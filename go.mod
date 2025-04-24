@@ -3,7 +3,7 @@ module github.com/kelein/trove-gin
 go 1.24.2
 
 require (
-	github.com/DATA-DOG/go-sqlmock v1.5.0
+	github.com/DATA-DOG/go-sqlmock v1.5.2
 	github.com/duke-git/lancet/v2 v2.3.5
 	github.com/gavv/httpexpect/v2 v2.17.0
 	github.com/gin-gonic/gin v1.10.0
