@@ -8,14 +8,14 @@ import (
 )
 
 type Response struct {
-	Code    int         `json:"code"`
-	Message string      `json:"message"`
-	Data    interface{} `json:"data"`
+	Code    int    `json:"code"`
+	Message string `json:"message"`
+	Data    any    `json:"data"`
 }
 
 func HandleSuccess(ctx *gin.Context, data interface{}) {
 	if data == nil {
-		data = map[string]interface{}{}
+		data = map[string]any{}
 	}
 	resp := Response{Code: errorCodeMap[ErrSuccess], Message: ErrSuccess.Error(), Data: data}
 	if _, ok := errorCodeMap[ErrSuccess]; !ok {
@@ -24,7 +24,7 @@ func HandleSuccess(ctx *gin.Context, data interface{}) {
 	ctx.JSON(http.StatusOK, resp)
 }
 
-func HandleError(ctx *gin.Context, httpCode int, err error, data interface{}) {
+func HandleError(ctx *gin.Context, httpCode int, err error, data any) {
 	if data == nil {
 		data = map[string]string{}
 	}
