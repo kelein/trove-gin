@@ -14,7 +14,7 @@ require (
 	github.com/golang/mock v1.6.0
 	github.com/google/wire v0.7.0
 	github.com/prometheus/client_golang v1.23.2
-	github.com/redis/go-redis/v9 v9.13.0
+	github.com/redis/go-redis/v9 v9.14.0
 	github.com/sony/sonyflake v1.3.0
 	github.com/spf13/viper v1.21.0
 	github.com/stretchr/testify v1.11.1
